@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ceydacyhn
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning swift
+- 🌸 Hi, I’m @ceydacyhn
+- ✨ I’m interested in mobile application development
+- 💻 I’m currently learning swift
 
 
 <!---
